@@ -34,7 +34,7 @@ actor NetworkingTests {
         
         mock.mockData = cepData
         mock.mockResponse = HTTPURLResponse(
-            url: URL(string: "https://viacep.com.br/ws/\(cep)/json/")!,
+            url: URL(string: "https://www.example.com")!,
             statusCode: 200,
             httpVersion: nil,
             headerFields: ["Content-Type": "application/json"])

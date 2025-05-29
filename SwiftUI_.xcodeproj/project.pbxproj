@@ -48,6 +48,7 @@
 		AAF43D5F2DE560BB0014D6E9 /* Networking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Networking.swift; sourceTree = "<group>"; };
 		AAF43D622DE560DC0014D6E9 /* Cep.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cep.swift; sourceTree = "<group>"; };
 		AAF43D682DE561B60014D6E9 /* MainViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewModel.swift; sourceTree = "<group>"; };
+		AAF9015C2DE90E9300787F99 /* SwiftUI_.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = SwiftUI_.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,6 +172,7 @@
 		AAF43D0F2DE55F0C0014D6E9 = {
 			isa = PBXGroup;
 			children = (
+				AAF9015C2DE90E9300787F99 /* SwiftUI_.xctestplan */,
 				AAF43D4F2DE55F180014D6E9 /* SwiftUI_ */,
 				AAF43D552DE55F180014D6E9 /* Testing */,
 				AAF43D192DE55F0C0014D6E9 /* Products */,

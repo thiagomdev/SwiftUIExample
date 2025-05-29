@@ -10,7 +10,7 @@ protocol Networking {
     func fetchCep(_ data: String) async throws -> Cep?
 }
 
-final class Network {
+actor Network {
     private let session: URLSessionProtocol
     
     init(session: URLSessionProtocol = URLSession.shared) {
